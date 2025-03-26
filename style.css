@@ -40,6 +40,14 @@ header nav ul{
     display: flex;
     gap: 20px;
     color: white;
+    padding: 10px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+header nav ul li:hover{
+    background-color: white;
+    color: black;
+
 }
 nav .harmburger-times{
     /* border: 2px solid yellow; */
