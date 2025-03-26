@@ -1,0 +1,20 @@
+*{
+border: 10px;
+padding:50px;
+color: azure;
+}
+p{
+    font-size: 60px;
+    color: rgb(63, 39, 9) ;
+    border: 3px dashed yellowgreen;
+}
+ben{
+border: 5px;
+padding: 20px;
+color: rgba(80, 19, 138, 0.534);
+font-size: 30px;
+
+}
+#phone{
+   color: #03185c;  
+}
